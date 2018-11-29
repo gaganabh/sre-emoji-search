@@ -1,4 +1,7 @@
+steps to follow
 
+
+docker pull gd015p/sre-test-final
 
 docker run -d -p 8080:8080 -p 3000:3000 gd015p/sre-test-final
 
