@@ -11,7 +11,18 @@ cd /sre-emoji-search
 
 yarn start &
 
+login to jenkins
 
+
+http://localhost:8080/jenkins         # localhost or ip of the host machine
+
+user/pwd :  admin/admin
+
+
+emoji search page
+
+
+http://localhost:3000            # localhost or ip of the host machine
 
 
 
